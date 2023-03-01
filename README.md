@@ -1,2 +1,2 @@
 # Precurso-henry
-este repositorio es del modulo 2 
+Este proyecto es una prueba de clonar repos
